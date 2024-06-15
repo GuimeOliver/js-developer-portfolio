@@ -1,7 +1,7 @@
 /* fontes */
 @font-face {
     font-family: 'Neue Machina';
-    src: url('/assets/fonts/neue-machina-light.otf');
+    src: url('assests/fonts/neue-machina-light.otf');
 }
 
 
@@ -27,7 +27,7 @@ body {
 }
 .main::before {
     content: '';
-    background-image: url('/assets/imagens/backGround.svg');
+    background-image: url('assests/imagens/backGround.svg');
     background-repeat: no-repeat;
     background-size: contain;
     display: inline-block;
@@ -40,7 +40,7 @@ body {
 }
 .main::after {
     content: '';
-    background-image: url('/assets/imagens/backGround.svg');
+    background-image: url('assests/imagens/backGround.svg');
     background-repeat: no-repeat;
     background-size: contain;
     display: inline-block;
